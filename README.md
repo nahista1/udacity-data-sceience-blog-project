@@ -6,7 +6,7 @@
 4. Results
 5. Acknowledgements
 
-# 1 Installation
+# ##1 Installation
 This project was written in the Anaconda environment and Python versions 3.6
 1. Libraries:
 2. Pandas.
