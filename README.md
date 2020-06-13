@@ -45,7 +45,7 @@ Udacity -  Stack Overflow 2017  data blog post.ipynb
 Jupyter notebook exploring and analysing Stack Overflow 2017 data
 
 # 4.Results
-The main findings of the code can be found [website](https://medium.com/@nahistaanjum1105/write-a-data-science-blog-post-402af2628ea3?sk=25f58a9c477707db2e84a76d4b7ecc9c)
+The main findings of the code can be found [link](https://medium.com/@nahistaanjum1105/as-a-software-engineer-is-usa-a-better-place-to-immigrate-than-europe-139f7f293265)
 
 # 5.Acknowledgements
 Attached the data set Thank you to the Udacity team for creating this project and associated lessons.
