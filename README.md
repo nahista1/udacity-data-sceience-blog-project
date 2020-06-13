@@ -17,15 +17,27 @@ This project was written in the Anaconda environment and Python versions 3.6
 
 # 2. Project Motivation
 This is an Udacity Nanodegree project For this project, I am  in using Stack Overflow data from 2017 to better understand:
-I want to explore the subset of surveyed Web Developers from the Stack Overflow 2017 Survey
-Web Developers are broadly classified into
-- Full stack Developers
-- Back End Developers
-- Front End Developers
+# a)Business Understanding:
+We investigated a software developer for North America was a better place to immigrate rather then Europe .
+what is important to a person searching for a new job, things such as salary, salary growth, and satisfaction in what they do are important factors that determine which location is a better choice for this we need to understand
 
-1.  what are tools used by What do developers want?
-2.  How much Programming Languages that Web Developers have Worked With in Past Years?
-3.  What is  Number of Languages by Developer Type?
+1.  Which location has the highest salary?
+2.  which location has the highest career satisfaction?
+3.  Which location has the highest salary growth?
+
+# b)Prepare data:
+The data comes from the stack overflow 2017 survey.It contains data that comes as numerical, categorical and text. It has missing values and outliers as well.the rows are the different respondants to the survey, and the columns are the answer to the survey questions. .
+
+# c) Build Model:
+I graphed different behaviours that were relevant to the above three questions, with the python libraries matplotlib and seaborn.
+
+# d)Results Analysis
+for the above three questions the  anserwing following conclusions:
+
+1. Which location has the highest salary? North America
+2. which location has the highest career satisfaction? THey start the same in the first year of work, but then Europe has a drop in   satisfaction of which never truly recovers until 20 years later.
+3. Which location has the highest salary growth? Both follow a similar pattern
+
 
 # 3. File Descriptions
 This repository contains the following files:
